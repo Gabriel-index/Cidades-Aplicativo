@@ -49,8 +49,7 @@ Além disso, o projeto busca promover aprendizado prático sobre tecnologia, urb
 
 ## 🛠️ Tecnologias Utilizadas
 
-* NestJS
-* MySQL
+* Flutter
 
 ---
 
